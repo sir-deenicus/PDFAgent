@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PDFAgent:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PDFAgent_jar</output-path>
+    <root id="archive" name="PDFAgent.jar">
+      <element id="module-output" name="PDFAgent" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../pdffigures2-0.0.11/classes/artifacts/pdffigures2_jar/pdffigures2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/JVM-Libs/Tabula/tabula-1.0.2-jar-with-dependencies.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
